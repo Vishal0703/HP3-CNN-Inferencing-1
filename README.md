@@ -1,3 +1,4 @@
+## Please check the commit history of branch "vishal_winograd" and "master" for my contributions. The collaborative contributions couldn't be synched due to some error and is thus not visible directly. I specifically implemented the "Winograd Algorithm" for the pipeline.
 # Introduction
 This project aims at implementing several convolution kernels for a CNN Inferencing Engine, analyzing the algorithms for AlexNet and VGG-19 architectures and picking the most efficient out of the implemented ones for those architectures. The following tasks were implemented in the project:
 * Creating a custom specification format which can be used to store and load available pretrained models in C++. Converting pretrained VGG-19 and AlexNet to the developed format 
